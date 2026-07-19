@@ -1,0 +1,12 @@
+Marvellous Automation Script 
+Files from the directory are : 
+Sangli_1.py
+Sangli_2.py
+Sangli_3.py
+Sangli_4.py
+Sangli_5.py
+Satara_1.py
+Satara_2.py
+Satara_3.py
+Satara_4.py
+Satara_5.py
